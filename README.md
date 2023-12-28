@@ -1,1 +1,1 @@
-it's a readme
+it's my first store
